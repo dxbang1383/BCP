@@ -1,4 +1,0 @@
-instance,group,n_vertices,n_edges,avg_weight,method,mode,solver_backend,amo_type,n_vars,n_clauses,init_ub,best_lb,best_ub,solved_optimal,encode_time_sec,solve_time_sec,total_time_sec
-GEOM20,GEOM[20-50],20,20,5.5,ASS-S-B,multi-shot,cadical153,seqcounter,940,5580,25,21,21,True,0.0158,0.0029,0.0272
-GEOM20a,GEOM[20a-50a],20,37,5.22,ASS-S-B,multi-shot,cadical153,seqcounter,940,8714,25,20,20,True,0.0506,0.0101,0.0945
-GEOM20b,GEOM[20b-50b],20,32,4.16,ASS-S-B,multi-shot,cadical153,seqcounter,620,4014,17,13,13,True,0.0126,0.0006,0.0213

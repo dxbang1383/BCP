@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.cnf
+.~lock.*
+.DS_Store
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg

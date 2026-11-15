@@ -1,0 +1,11 @@
+python-sat>=1.8.dev13
+networkx>=2.8.5
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+cnsplots>=0.2.0
+ortools>=9.8.0
+gurobipy>=10.0.0
+cplex>=22.1.0
+docplex>=2.25.0

@@ -1,0 +1,4 @@
+instance,group,n_vertices,n_edges,avg_weight,method,mode,solver_backend,amo_type,n_vars,n_clauses,init_ub,best_lb,best_ub,solved_optimal,encode_time_sec,solve_time_sec,total_time_sec
+GEOM20,GEOM[20-50],20,20,5.5,POP-S-B,incremental,cadical153,order,500,1000,25,21,21,True,0.0008,0.0005,0.0022
+GEOM20a,GEOM[20a-50a],20,37,5.22,POP-S-B,incremental,cadical153,order,500,1425,25,20,20,True,0.001,0.0005,0.0025
+GEOM20b,GEOM[20b-50b],20,32,4.16,POP-S-B,incremental,cadical153,order,340,884,17,13,13,True,0.0006,0.0001,0.0013
